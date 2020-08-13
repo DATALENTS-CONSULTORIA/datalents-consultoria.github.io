@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: "DATALENTS"
 description: "Consultoria organizacional"
-logo: ![](https://github.com/daneira66/Datalents/blob/master/Logo.png)
+logo: /Logo.png
