@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Modelo TALENTU"
 permalink: /Nosotros/TALENTU/
 
