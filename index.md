@@ -4,14 +4,6 @@ Prestamos nuestros servicios a organizaciones privadas y entidades públicas, tr
 
 # Indice de páginas
 
-<div class="columns-2">
-  <center>
-    ### Nosotros
-  </center>  
+### Nosotros
 * [Nosotros](/Nosotros/)
-
-  <center>
-    ### Servicios 
-  </center>
-* [Modelo TALENTU](/Nosotros/TALENTU/)
-</div>
+  * [Modelo TALENTU](/Nosotros/TALENTU/)
