@@ -8,7 +8,8 @@ Prestamos nuestros servicios a organizaciones privadas y entidades públicas, tr
   <center> ### Nosotros </center>
 * [Nosotros](/Nosotros/)
 </div>
-<div class="pull-right">
+
   <center> ### Servicios </center>
 * [Modelo TALENTU](/Nosotros/TALENTU/)
+</div>
 </div>
