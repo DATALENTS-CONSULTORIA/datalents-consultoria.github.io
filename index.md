@@ -1,6 +1,7 @@
-# Nuestra organización
+# Servicios de consultoria especializados
 
-Somos una firma de consultoría encargada de brindar sus servicios mediante modelos dinámicos, inteligentes, prácticos y transformadores, a partir de sistemas de información que tienen como propósito elevar el conocimiento a nivel organizacional para apoyar la toma de decisiones y desarrollo de estrategias en las empresas. Buscamos mejorar las competencias y capacidades de tus colaboradores, porque creemos que los mejores talentos fortalecen el bienestar y aumentan la productividad en las organizaciones, es por esto que nuestra gestiòn se basa en el fortalecimiento del trabajo en equipo y el liderazgo aumentando los niveles de productividad y motivación para cumplir con los objetivos estratégicos de la organización a través de un talento humano calificado y competente.
+Prestamos nuestros servicios a organizaciones privadas y entidades públicas, trabajando directamente con el área de Talento Humano. Nuestro modelo de gestión se basa en una metodología integral y dinámica que reune los elementos que constituyen el trabajo en los servicios de consultoria, selección de personal y construcción de instrumentos de evaluación. Cómo eje transversal nos valemos de la aplicación de modelos estadísticos para la generación e interpretación de los datos obtenidos en las organizaciones. 
 
-En consecuencia, para el desarrollo de esta labor se desarrolla el modelo TALENTU, con el cual se busca aportar una experiencia transformadora para todos nuestros clientes y que sirve de fundamento para el desarrollo de cada uno de los servicios y procesos, este modelo se puede definir como: Talento, Actitud, Liderazgo, Evaluación, Novedad, Transformación y Unidad.
+# Indice de páginas
 
+* [Nosotros](Nuestra-organización.md)
