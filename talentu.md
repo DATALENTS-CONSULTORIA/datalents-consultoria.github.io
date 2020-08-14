@@ -2,6 +2,10 @@
 layout: page
 title: "Modelo TALENTU"
 permalink: /Nosotros/TALENTU/
+theme: jekyll-theme-minimal
+title: "DATALENTS"
+description: "Talento humano y análisis de datos"
+logo: /imagenes/Logo.png
 ---
 
 > “Las empresas que fomentan espacios y cuentan con modelos de gestión de innovación y de emprendimiento son las que más progresan, las que más crecen y las que más valor generan” 
