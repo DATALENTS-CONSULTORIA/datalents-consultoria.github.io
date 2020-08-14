@@ -10,7 +10,15 @@ Somos una firma de consultoría  que tiene como objetivo brindar sus servicios m
 
 En consecuencia, para el desarrollo de esta labor se desarrolla el modelo **TALENTU**, con el cual se busca aportar una experiencia transformadora para todos nuestros clientes, este modelo se puede definir como: Talento, Actitud, Liderazgo, Evaluación, Novedad, Transformación y Unidad.
 
-## Indice de páginas
+## Misión
+
+DATALENTS es una firma de consultoría organizacional que presta sus servicios garantizando las necesidades y expectativas de sus clientes a través de un modelo integral, dinámico y transformador basado en el análisis de datos, que busca responder a la innovación y los cambios que surgen a nivel global en el mundo empresarial. Su gestión está orientada en la búsqueda de estrategias y herramientas adecuadas que fomentan el aprendizaje, desarrollo, posicionamiento y prestigio de la organización, a través del trabajo individual, grupal y las buenas ideas.
+
+## Visión
+
+DATALENTS, en el año 2023 será la firma de consultoría organizacional más reconocida en Colombia, por sus altos niveles de excelencia en la prestación de sus servicios, basando su metodología de trabajo en el uso de la tecnología y análisis de datos, como aliados estratégicos en la gestión del talento humano, garantizando su pertinencia profesional en el sector empresarial.
+
+# Indice de páginas
 
 ### Nosotros
 * [Nosotros](/Nosotros/)
