@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Modelo TALENTU"
+title: Modelo TALENTU
 permalink: /Nosotros/TALENTU/
 
 ---
