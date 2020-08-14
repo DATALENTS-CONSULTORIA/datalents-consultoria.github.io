@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Modelo TALENTU"
+permalink: /Nosotros/TALENTU/
+
+---
 
 > “Las empresas que fomentan espacios y cuentan con modelos de gestión de innovación y de emprendimiento son las que más progresan, las que más crecen y las que más valor generan” 
 > Goméz,F.
