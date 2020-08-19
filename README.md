@@ -1,1 +1,3 @@
-Página estatica creada con GitHub Pages para DATALENTS
+Página estatica creada con GitHub Pages para DATALENTS un emprendimiento de consultoria organizacional, toda la información aqui consignada tiene el proposito de dar a conocer el proyecto y es de uso exclusivo de los miembros de la organización; si se encuentran interesados o si desean conocer más de nosotros los invitamos a comunicarse por medio del correo _info.datalents@gmail.com_ 
+
+Esta página se crea usando _The Minimal Theme_, uno de los temas creados por Jekill para GiHub Pages, la información concerniente al tema se puede encontrar en el repositorio **[Minimal](https://github.com/pages-themes/minimal)** en _pages-themes_.
