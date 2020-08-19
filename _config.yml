@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: "DATALENTS"
 description: "Talento humano y análisis de datos"
 logo: /imagenes/Logo.png
+show_downloads: true
