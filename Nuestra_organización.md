@@ -11,7 +11,7 @@ Somos una firma de consultoría  que tiene como objetivo brindar sus servicios m
 </p>
 
 <p styles="text-align:justify;">
-En consecuencia, para el desarrollo de esta labor se desarrolla el modelo **TALENTU**, con el cual se busca aportar una experiencia transformadora para todos nuestros clientes, este modelo se puede definir como: Talento, Actitud, Liderazgo, Evaluación, Novedad, Transformación y Unidad.
+ En consecuencia, para el desarrollo de esta labor se desarrolla el modelo <strong>TALENTU</strong>, con el cual se busca aportar una experiencia transformadora para todos nuestros clientes, este modelo se puede definir como: Talento, Actitud, Liderazgo, Evaluación, Novedad, Transformación y Unidad.
 </p>
 
 ## Misión
